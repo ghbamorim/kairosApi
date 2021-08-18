@@ -1,0 +1,1 @@
+TimeoutError: waiting for XPath "//div[@id='checkAllPages']" failed: timeout 30000ms exceededno método let banco = await this.gera_relatorio(opcoes)
